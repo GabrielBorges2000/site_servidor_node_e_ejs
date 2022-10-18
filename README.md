@@ -8,3 +8,12 @@ Consegui entender os principais fundamentos e a estruturar o HTML na linguagem E
 # Como inicar o servidor?
 
 No terminal coloque o comando `node server`.
+
+Agora para acessar o servidor, em seu navegador abra:
+
+`localhost:8080`
+
+Pronto! Basta realizar as alterações nos arquivos.
+
+Esse arquivo foi utilizado o bootstrap com uma configuração básica de css,
+pois o foco era criar um servidor local e dar manutenção no mesmo.
